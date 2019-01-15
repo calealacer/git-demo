@@ -2,12 +2,6 @@
 
 This is the first file in this repo.
 
-## Sample Text Below
+## Website Contents
 
-jalks jfaslf jlksaf jlksa jfisah flkjsafslkmaicioawwmefnjfnu oewjfafmlkdsa
-now qmdsalk nlja npwnlksadn;lsadn  lksa lkdsa now inla.
-
-jalks jfaslf jlksaf jlksa jfisah flkjsafslkmaicioawwmefnjfnu oewjfafmlkdsa
-now qmdsalk nlja npwnlksadn;lsadn  lksa lkdsa now inla.
-jalks jfaslf jlksaf jlksa jfisah flkjsafslkmaicioawwmefnjfnu oewjfafmlkdsa
-now qmdsalk nlja npwnlksadn;lsadn  lksa lkdsa now inla.
+1. index.html
